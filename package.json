@@ -1,6 +1,6 @@
 {
-    "name": "inkstained-theme",
-    "displayName": "Inkstained Theme",
+    "name": "snowy-theme",
+    "displayName": "Snowy Theme",
     "description": "A light theme for VSCode",
     "version": "0.0.1",
     "engines": {
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Inkstained",
+                "label": "Snowy",
                 "uiTheme": "vs",
-                "path": "./themes/Inkstained-color-theme.json"
+                "path": "./themes/Snowy-color-theme.json"
             }
         ]
     }
