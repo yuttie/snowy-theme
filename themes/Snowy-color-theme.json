@@ -3,7 +3,12 @@
 	"type": "light",
 	"colors": {
 		"editor.background": "#eff1f5",
-		"editor.foreground": "#697383"
+		"editor.foreground": "#697383",
+		"editorLineNumber.foreground": "#d9dce2",
+		"editorLineNumber.activeForeground": "#acb0b8",
+		"editorCursor.background": "#eff1f5",
+		"editorCursor.foreground": "#415d83",
+		"editor.selectionBackground": "#d9e1f1"
 	},
 	"tokenColors": [
 		{
