@@ -4,6 +4,10 @@
     "description": "A light theme for VSCode",
     "version": "0.0.1",
     "publisher": "yuttie",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yuttie/snowy-theme"
+    },
     "engines": {
         "vscode": "^1.30.0"
     },
