@@ -2,14 +2,14 @@
 	"name": "Snowy",
 	"type": "light",
 	"colors": {
-		"editor.background": "#ffffff",
-		"editor.foreground": "#000000"
+		"editor.background": "#eff1f5",
+		"editor.foreground": "#697383"
 	},
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#333333ff",
-				"background": "#f5f5f5ff"
+				"foreground": "#697383",
+				"background": "#eff1f5"
 			}
 		},
 		{
@@ -20,7 +20,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#AAAAAA"
+				"foreground": "#929cad"
 			}
 		},
 		{
@@ -28,7 +28,7 @@
 			"scope": "comment.block.preprocessor",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#AAAAAA"
+				"foreground": "#d3d1cc"
 			}
 		},
 		{
@@ -60,7 +60,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#a05b89"
 			}
 		},
 		{
@@ -70,7 +70,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#7c6a93"
 			}
 		},
 		{
@@ -80,7 +80,16 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#a05b89"
+			}
+		},
+		{
+			"name": "Modifiers",
+			"scope": [
+				"storage.modifier"
+			],
+			"settings": {
+				"foreground": "#7593bb"
 			}
 		},
 		{
@@ -91,7 +100,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#608f8e"
 			}
 		},
 		{
@@ -112,7 +121,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#AA3731"
+				"foreground": "#343a44"
 			}
 		},
 		{
@@ -149,14 +158,14 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#5e99b1"
 			}
 		},
 		{
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#608f8e"
 			}
 		},
 		{
@@ -184,7 +193,7 @@
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#7c6a93"
 			}
 		},
 		{
