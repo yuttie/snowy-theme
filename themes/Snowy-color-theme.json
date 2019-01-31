@@ -57,6 +57,15 @@
 			}
 		},
 		{
+			"name": "Metas",
+			"scope": [
+				"meta"
+			],
+			"settings": {
+				"foreground": "#9784ae"
+			}
+		},
+		{
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
@@ -70,7 +79,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#7c6a93"
+				"foreground": "#56759a"
 			}
 		},
 		{
