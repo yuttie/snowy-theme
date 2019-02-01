@@ -6,6 +6,8 @@
 		"menu.background": "#eff1f5",
 		"titleBar.activeBackground": "#eff1f5",
 		"titleBar.activeForeground": "#697383",
+		"titleBar.inactiveForeground": "#929cad",
+		"titleBar.inactiveBackground": "#eff1f5",
 		"menubar.selectionForeground": "#555f6f",
 		"menubar.selectionBackground": "#d9e1f1",
 		"menu.foreground": "#697383",
