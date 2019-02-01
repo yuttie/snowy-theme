@@ -20,6 +20,7 @@
 		"tab.inactiveBackground": "#eff1f5",
 		"activityBar.foreground": "#697383",
 		"activityBar.background": "#eff1f5",
+		"sideBar.background": "#eff1f5",
 		"editor.foreground": "#697383",
 		"editor.background": "#eff1f5",
 		"editorLineNumber.foreground": "#d9dce2",
