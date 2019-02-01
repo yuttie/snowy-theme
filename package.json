@@ -2,7 +2,7 @@
     "name": "snowy-theme",
     "displayName": "Snowy Theme",
     "description": "A light theme for VSCode",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "yuttie",
     "repository": {
         "type": "git",
