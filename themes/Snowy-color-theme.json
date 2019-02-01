@@ -80,9 +80,9 @@
 			}
 		},
 		{
-			"name": "Metas",
+			"name": "Attributes",
 			"scope": [
-				"meta"
+				"meta.attribute"
 			],
 			"settings": {
 				"foreground": "#9784ae"
