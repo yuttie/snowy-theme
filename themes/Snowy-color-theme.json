@@ -23,6 +23,8 @@
 		"sideBar.background": "#eff1f5",
 		"statusBar.foreground": "#697383",
 		"statusBar.background": "#eff1f5",
+		"notifications.foreground": "#697383",
+		"notifications.background": "#f4f6fc",
 		"editor.foreground": "#697383",
 		"editor.background": "#eff1f5",
 		"editorLineNumber.foreground": "#d9dce2",
