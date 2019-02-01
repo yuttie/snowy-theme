@@ -89,6 +89,15 @@
 			}
 		},
 		{
+			"name": "Preprocessors",
+			"scope": [
+				"meta.preprocessor"
+			],
+			"settings": {
+				"foreground": "#7c6a93"
+			}
+		},
+		{
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
@@ -236,6 +245,15 @@
 			],
 			"settings": {
 				"background": "#EAEBE6"
+			}
+		},
+		{
+			"name": "Markdown: Text",
+			"scope": [
+				"text.html.markdown"
+			],
+			"settings": {
+				"foreground": "#697383"
 			}
 		},
 		{
